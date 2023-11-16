@@ -1,0 +1,30 @@
+ *{
+  background: pink;
+ }
+.Counter{
+  height: 200px;
+  width: 600px;
+  margin: auto;
+  border: dotted purple;
+  background-color: blue;
+}
+.count{
+  margin: auto;
+  text-align: center;
+  font-weight: 1000;
+  padding: 60px ;
+  background-color: aqua;
+  
+}
+ .Increment{
+  background-color:yellow ;
+  height: 20%;
+  margin-left:230px ;
+   
+  
+ }
+ .Decrement{
+  background-color: red;
+  height: 20%;
+  
+ }
